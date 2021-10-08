@@ -1,5 +1,7 @@
 body{
-    background-color: lightskyblue;
+    background-color: #F78181;
+    font-family: 'Courier New', Courier, monospace;
+    color:black ;
 }
 .col{
     background-color: white;
@@ -7,4 +9,12 @@ body{
 .container{
     margin-top:20px;
     border-radius: 15px;
+}
+.p1{
+    font-family: 'Courier New', Courier, monospace;
+    color:black;
+}
+.p2{
+    font-family: 'Courier New', Courier, monospace;
+    color: blanchedalmond;
 }
